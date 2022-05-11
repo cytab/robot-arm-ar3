@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdf29685-e078-46ea-93e7-8b5a37a3c69a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/AR.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/AR2.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/ARCS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/ARbot.cal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/ErrorLog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/auto-py-to-exe 2.5.2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/default calibration values.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/display setting.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/home" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/information.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/play-icon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/pp.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/rest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/stack blocks example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/stop-icon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/vision example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARCS source files/ARCS source files/xbox.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ARCS_teensy_sketch-20211117T043715Z-001/ARCS_teensy_sketch/ARCS_teensy_sketch/ARCS_teensy_sketch.ino" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21214KV9h5LRw9nEzvq3dgZddkw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ARCS-SOURCE" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf29685-e078-46ea-93e7-8b5a37a3c69a" name="Changes" comment="" />
+      <created>1637124178575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637124178575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ARCS source files/ARCS source files/ARCS.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
